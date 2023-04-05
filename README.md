@@ -1,1 +1,1 @@
-# yeeldToken
+# YeeldToken contract
